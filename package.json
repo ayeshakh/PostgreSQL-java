@@ -1,0 +1,23 @@
+{
+  "name": "postgresql-java",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayeshakh/PostgreSQL-java.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayeshakh/PostgreSQL-java/issues"
+  },
+  "homepage": "https://github.com/ayeshakh/PostgreSQL-java#readme"
+}
